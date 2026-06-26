@@ -91,6 +91,10 @@ ID;Name;Dob;Phone
 - **Case-insensitive exclude:** use `exclude.Contains(p.Name, StringComparer.OrdinalIgnoreCase)`.
 - **Inheritance:** `MetadataToken` ordering is reliable within one class; mixing base + derived members has no guaranteed order.
 
+## Online Compiler
+https://onecompiler.com/csharp/44tecj3zd
+
+
 ## License
 
 MIT
